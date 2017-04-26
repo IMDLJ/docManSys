@@ -1,5 +1,5 @@
 /**
- * Created by Administrator on 2015/4/15.
+ *
  * 文章类别对象
  */
 var mongoose = require('mongoose');

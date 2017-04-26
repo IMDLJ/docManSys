@@ -1,5 +1,5 @@
 /**
- * Created by Administrator on 2015/8/31.
+ * 
  */
 var url = require('url');
 var settings = require("./settings");

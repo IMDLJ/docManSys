@@ -1,5 +1,5 @@
 /**
- * Created by Administrator on 2015/4/15.
+ * 
  * 子模板信息
  */
 var mongoose = require('mongoose');

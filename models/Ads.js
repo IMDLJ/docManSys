@@ -1,5 +1,5 @@
 /**
- * Created by Administrator on 2015/4/15.
+ * 
  * 广告管理
  */
 var mongoose = require('mongoose');

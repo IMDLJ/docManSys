@@ -1,5 +1,5 @@
 /**
- * Created by Administrator on 2015/4/15.
+ * 
  * 留言管理
  */
 var mongoose = require('mongoose');

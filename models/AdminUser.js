@@ -1,5 +1,5 @@
 /**
- * Created by Administrator on 2015/4/15.
+ * 
  * 管理员对象
  */
 var mongoose = require('mongoose');

@@ -1,5 +1,5 @@
 /**
- * Created by Administrator on 2015/9/28.
+ * 
  * 系统操作日志
  */
 var mongoose = require('mongoose');

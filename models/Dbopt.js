@@ -1,5 +1,5 @@
 /**
- * Created by Administrator on 2015/4/18.
+ * 
  */
 
 var url = require('url');
